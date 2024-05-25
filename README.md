@@ -19,5 +19,8 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imadchougle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imadchougle&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadchougle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
