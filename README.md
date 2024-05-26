@@ -1,6 +1,17 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! Imad Chougle here
+<h1 align="center">Hi 👋, I'm Imad Chougle</h1>
+<h3 align="center">A passionate software developer</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadchougle" alt="imadchougle" /></a> </p>
 
 
+- 📫 How to reach me **imadchougle2@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imadchougle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imadchougle2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imadchougle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imadchougle" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@imadchougle2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@imadchougle2" height="30" width="40" /></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,7 +30,11 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
+
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imadchougle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imadchougle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadchougle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadchougle&show_icons=true&locale=en&layout=compact" alt="imadchougle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadchougle&show_icons=true&locale=en" alt="imadchougle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadchougle&" alt="imadchougle" /></p>
