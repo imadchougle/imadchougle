@@ -4,14 +4,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadchougle" alt="imadchougle" /></a> </p>
 
 
-- 📫 How to reach me **imadchougle2@gmail.com**
+### 📫 How to reach me : 
+<a href="mailto:imadchougle2@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+imadchougle2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imadchougle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imadchougle2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imadchougle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imadchougle" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@imadchougle2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@imadchougle2" height="30" width="40" /></a>
+<a href="mailto:imadchougle2@gmail.com" <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+  height="30" width="40" alt="@imadchougle2"  /> </a>
 </p>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
